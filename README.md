@@ -75,6 +75,26 @@ README.md
 
 ---
 
+![alt text](docs/FlujoVentaEntradas.png)
+
+---
+
+## Objetivo del proyecto
+   Este flujo fue creado como proyecto integral de automatización conversacional con foco en:
+
+   Diseño conversacional
+
+   Control de estado
+
+   Uso práctico de IA
+
+   Separación entre decisión y ejecución
+
+   Arquitectura escalable
+
+   Estado del proyecto:
+   Activo y en evolución.
+
 ## Cómo usarlo
 
 1. Importar el archivo JSON del workflow en n8n  
@@ -93,20 +113,3 @@ Ejemplo de request:
   "user_id": "user_demo",
   "source": "whatsapp"
 }
-Objetivo del proyecto
-Este flujo fue creado como proyecto integral de automatización conversacional con foco en:
-
-Diseño conversacional
-
-Control de estado
-
-Uso práctico de IA
-
-Separación entre decisión y ejecución
-
-Arquitectura escalable
-
-Estado del proyecto
-Activo y en evolución.
-
-![alt text](docs/FlujoVentaEntradas.png)
